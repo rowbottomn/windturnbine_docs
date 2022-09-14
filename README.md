@@ -1,2 +1,9 @@
-# windturnbine_docs
-Just an example of documentation for the Grade 9 Arduino Wind Turbine
+# Testing Wind Turbines with Arduino
+
+This is the documentation for the activity Wind Turbines in which students make a small wind turbine and then test it on their computer.
+
+## Topics
+
+---
+
+
