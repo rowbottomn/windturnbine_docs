@@ -5,24 +5,26 @@ This is the documentation for the activity Wind Turbines in which students make 
 ## Topics
 
 ---
-1. Overview 
+1. [Activity Overview](topics/topic1.md) 
 ---
-2. Installtion of Arduino
----
-
-3. Equipment
+2. [Installation of Arduino](topics/topic2.md)
 ---
 
-4. Constructing your wind turbine
+3. [Equipment](topics/topic3.md)
 ---
 
-5. Testing your wind turbine
+4. [Constructing Your Wind Turbine](topics/topic4.md)
 ---
 
-6. Running / Explanation of the Arduino Sample code
+5. [Wiring Your Wind Turbine for Testing](topics/topic5.md)
 ---
 
-7. Running the smoothing Arduino code
+6. [Explanation of the Arduino Sample Code and Running it on the Arduino](topics/topic6.md)
+---
+
+7. [Running the Smoothing Arduino Code](topics/topic7.md)
+---
+8. [Lessons Learned](topics/topic8.md)
 
 
 
