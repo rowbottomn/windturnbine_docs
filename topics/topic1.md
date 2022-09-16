@@ -10,4 +10,4 @@ arduino is an easy to use programable circut board that can be used for a viriat
 ### Jobs with arduino
 Arduino is used to prototype circut boards before they are deployed into the product they are intended for. <br> 
 
-<img src="/images/Arduino UNO.png" alt="Arduino" width="500" height="500">
+<img src="/images/Arduino UNO.png" alt="Arduino" width="250" height="200">
