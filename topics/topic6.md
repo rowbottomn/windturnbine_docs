@@ -1,9 +1,13 @@
-### How to get and use Arduino's sample code
-1. Open Arduino
-![Arduino](..openArduino.png)
+# How to get and use Arduino's sample code
+
+## To open Arduino, search Arduino in the lower left search bar and click Arduino icon
+
+<img src="../images/searchArduino2.png" alt="Arduino" height="400" width="450">
+
 ---
-2. Click on file
-![file](..openFile.png)
----
-3. Click on examples - basics - ReadAnalogVoltage
-![examples](..examplesBasics.png)
+## In the top left corner, click on examples - basics - ReadAnalogVoltage
+![examples](../images/examplesBasics.png)
+
+## Sample code will be ready to run
+
+<img src="../images/readAnalogVoltage.png" alt="RAV" height="400" width="650">
