@@ -5,7 +5,7 @@
 <img src="../images/searchArduino2.png" alt="Arduino" height="400" width="450">
 
 ---
-## In the top left corner, click on examples - basics - ReadAnalogVoltage
+## In the top left corner, click on file - examples - basics - ReadAnalogVoltage
 ![examples](../images/examplesBasics.png)
 
 ## Sample code will be ready to run
