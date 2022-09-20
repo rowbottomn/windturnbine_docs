@@ -8,3 +8,5 @@
 6| [Explanation of the Arduino Sample Code and Running it on the Arduino](topics/topic6.md)|MM
 7| [Running the Smoothing Arduino Code](topics/topic7.md) | TS
 8| [Lessons Learned](topics/topic8.md) | NR
+
+---
