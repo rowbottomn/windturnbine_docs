@@ -8,6 +8,10 @@
 ## In the top left corner, click on file - examples - basics - ReadAnalogVoltage
 ![examples](../images/examplesBasics.png)
 
-## Sample code will be ready to run
+## In the top left corner, click the check mark to verify the code
+
+<img src="../images/verifySample.png" alt="RAV" height="400" width="600">
+
+## Sample code will be ready for use
 
 <img src="../images/readAnalogVoltage.png" alt="RAV" height="400" width="650">
