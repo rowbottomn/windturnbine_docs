@@ -25,7 +25,7 @@
 <img src="../images/bareCode.png" alt="bare" height="400" width="600">
 
 Void setup is what makes sure everything works and what starts the code.
-T
+
 Void loop is what will show us the voltage, it will keep on running until we turn it off. Line 6 takes in our numbers in what we call sensorValue. Line 7 converts the sensorValue numbers into voltage numbers. Line 8 shows us the numbers in voltage and graphs it.
 
 ---
